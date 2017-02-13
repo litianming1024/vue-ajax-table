@@ -36,7 +36,6 @@
   </div>
 </template>
 <script>
-  import 'element-ui/lib/theme-default/index.css'
   import ActionBar from './ActionBar'
   export default {
     components: {
